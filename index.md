@@ -2,7 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [KWU INDIVIDU ESAI](ebook/KWU INDIVIDU ESAI.pdf) – Ramen A. Purba, dkk (2020) 
+1. [Kewirausahaan Individu Esai](ebook/Kewirausahaan Individu Esai.pdf) – Ramen A. Purba, dkk (2020) 
 2. Contoh buku lain
 ---
 *Powered by GitHub Pages*
